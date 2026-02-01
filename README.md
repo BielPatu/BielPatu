@@ -16,6 +16,5 @@ Apaixonado por tecnologia, programação e criação de sistemas robustos.
 - Email: gabrielpatu739@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gabriel-pat%C3%BA-5650152aa/
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
